@@ -1,0 +1,58 @@
+
+<table border="0">
+
+<tbody><tr>
+<th class="wi_head">Work Title
+</th>
+<td class="wi_head" style="width:100%">Al'hama (ORQUESTA DE CUERDA)
+</td></tr>
+<tr>
+<th class="wi_head">Alt<span class="mh555">ernative</span><span class="ms555">.</span> Title
+</th>
+<td class="wi_head">Parrandas - Bulería
+</td></tr>
+<tr>
+<th>Composer
+</th>
+<td><a href="/wiki/Category:Mart%C3%ADnez_Garc%C3%ADa,_Salvador" title="Category:Martínez García, Salvador">Martínez García, Salvador</a>
+</td></tr>
+<tr>
+<th><span class="mh555">Internal Reference Number</span><span class="ms555">Internal Ref. No.</span>
+</th>
+<td>ISM 1
+</td></tr>
+<tr>
+<th>Key
+</th>
+<td>A major
+</td></tr>
+<tr>
+<th><span class="mh555">Year/Date of Composition</span><span class="ms555">Y/D of Comp.</span>
+</th>
+<td>1999
+</td></tr>
+<tr>
+<th>First Perf<span class="mh555">ormance</span><span class="ms555">.</span>
+</th>
+<td>2010
+</td></tr>
+<tr>
+<th><span class="mh555">Average Duration</span><span class="ms555">Avg. Duration</span>
+</th>
+<td>5
+</td></tr>
+<tr>
+<th><span class="mh555">Composer Time Period</span><span class="ms555">Comp. Period</span>
+</th>
+<td><a href="/wiki/Category:Modern" title="Category:Modern">Modern</a>
+</td></tr>
+<tr>
+<th>Piece Style
+</th>
+<td><a href="/wiki/Category:Modern_style" title="Category:Modern style">Modern</a>
+</td></tr>
+<tr>
+<th>Instrumentation
+</th>
+<td>String Orchestra
+</td></tr></tbody></table>

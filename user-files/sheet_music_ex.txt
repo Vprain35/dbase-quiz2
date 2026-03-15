@@ -1,0 +1,21 @@
+
+<div class="we_file_download plainlinks">
+<p><b><a rel="nofollow" class="external text" href="https://imslp.org/wiki/Special:ImagefromIndex/131306/hfcn"><span title="Download this file"><span class="we_file_dlarrwrap"><span class="we_file_dlarrow">&nbsp;</span></span>Complete Score</span></a></b><br>
+<span class="we_file_info2"><span class="hidden"><a href="/images/9/95/PMLP255136-cancionparaunafiesta.pdf" class="internal" title="PMLP255136-cancionparaunafiesta.pdf">*</a></span><a href="/wiki/File:PMLP255136-cancionparaunafiesta.pdf" title="File:PMLP255136-cancionparaunafiesta.pdf">#131306</a> - 0.14MB, 9 pp. <span class="mobilehide625">-&nbsp;<span class="inline-rating star-rating small-star">
+	<span class="current-rating" id="current-rating-131306" style="width: 40%;">4/10</span>
+	<span id="ratelinks-131306">
+	<a href="javascript:void(0)" id="131306" class="one-star">2</a>
+	<a href="javascript:void(0)" id="131306" class="two-stars">4</a>
+	<a href="javascript:void(0)" id="131306" class="three-stars">6</a>
+	<a href="javascript:void(0)" id="131306" class="four-stars">8</a>
+	<a href="javascript:void(0)" id="131306" class="five-stars">10</a>
+	</span>
+</span> (<span id="num-of-ratings-131306">2</span>)&nbsp;</span><span class="uctagonly mh900">- <a href="/wiki/Special:IMSLPEditCTag/131306/Canci%C3%B3n_para_una_fiesta_(Mart%C3%ADnez_Garc%C3%ADa,_Salvador)" title="Special:IMSLPEditCTag/131306/Canción para una fiesta (Martínez García, Salvador)"><span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span>/<span style="color:green">!<b>N</b></span></a> </span>- <span title="Total number of downloads: 1461"><a href="/wiki/Special:GetFCtrStats/@131306" title="Special:GetFCtrStats/@131306">1461</a>×<big>⇩</big></span><span class="ms555"> - <a href="/wiki/User:Smg" title="User:Smg">Smg</a></span></span>
+</p>
+</div>
+<div class="we_file_info mhs"><table style="border-spacing: 0px;"><tbody><tr><td id="fileButton_131306"><div><a class="nxbutton " style="font-size: 0.95em; float: left;"><span class="icon icon84"></span><span class="label blue"><span class="mobilehide900">View</span></span></a></div></td><td style="width: 5px;"></td><td style="text-align: right;">
+<p><span class="mh555"><a href="/wiki/IMSLP:File_formats" title="IMSLP:File formats">PDF</a> typeset by <i>Unknown</i><br>
+<a href="/wiki/User:Smg" title="User:Smg">Smg</a> (2011/10/1)</span>
+</p>
+</td><td style="width: 5px;"></td><td id="tbxButton_131306"><div><div class="dropdown" style="font-size: 0.95em; float: left;"><a class="nxbutton " style="font-size: 0.95em; float: left;"><span class="icon icon96" style="margin-right: 3px"></span><span class="toggle"></span></a><div class="dropdown-slider" style="right: 0px; width: 1000%;"><a class="ddm middle" style=";;"><span class="icon icon119"></span><span class="label blue">File permlink</span></a><a class="ddm right" style=";;"><span class="icon icon42"></span><span class="label blue">Discuss this file (0)</span></a></div></div></div></td></tr></tbody></table></div>
+<div class="we_clear"></div>
